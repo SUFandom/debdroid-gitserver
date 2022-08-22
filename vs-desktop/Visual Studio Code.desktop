@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.70.1
+Type=Application
+Name=Visual Studio Code
+GenericName=Text Editor
+Comment=A Lightweight IDE
+Exec=/usr/share/code --no-sandbox --enable-crashpad %F
+Terminal=false
+MimeType=text/plain;
+Icon=com.visualstudio.code
+Categories=Development;IDE;TextEditor
+StartupNotify=true

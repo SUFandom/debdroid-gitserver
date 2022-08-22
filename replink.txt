@@ -1,0 +1,8 @@
+# Input this when idesetup package didnt work
+# Or use these links / line of code for Termux to install idesetup, also advising not installing vs code on Termux, it wont work
+deb [trusted=yes arch=armhf] https://sufandom.github.io/debdroid-gitserver/packages/contrib binary-armhf
+deb [trusted=yes arch=aarch64] https://sufandom.github.io/debdroid-gitserver/packages/contrib binary-aarch64
+deb [trusted=yes arch=arm] https://sufandom.github.io/debdroid-gitserver/packages/contrib binary-arm
+
+# For termux line, only for install idesetup
+#soon
