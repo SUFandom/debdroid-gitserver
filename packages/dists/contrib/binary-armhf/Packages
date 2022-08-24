@@ -1,0 +1,16 @@
+Package: idesetup
+Version: 0.1-port
+Section: base
+Priority: optional
+Architecture: armhf
+Maintainer: SUFandom
+Homepage: https://github.com/SUFandom
+Description:VS Code Installer
+ Use this script when on shared dir link with Proot 
+
+Filename: dists/contrib/binary-armhf/idesetup_0.1-port.deb
+Size: 1648
+MD5Sum: 95606ee12421d13274ae047464bdf51e
+SHA1: cb70187943716388d509babba7a618b0fc54d976
+SHA256: f6c82c46b6a452661fcfb5b4914d398d2de76fad8289c6afbaba34a6a37c211f
+SHA512: 8ff8e3cdcb2b69abe363066fe6dd54666b7d1ee3466a2bfc23432bc6687ad571256cb2b2810b39da7d702ef6df88aaf2102b52044a20382b0db70dd380fc657f

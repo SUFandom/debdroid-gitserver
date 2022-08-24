@@ -1,0 +1,16 @@
+Package: idesetup
+Version: 0.1-port-arm
+Section: base
+Priority: optional
+Architecture: arm
+Maintainer: SUFandom
+Homepage: https://github.com/SUFandom
+Description:VS Code Installer
+ Use this script when on shared dir link with Proot 
+
+Filename: dists/contrib/binary-arm/idesetup_0.1-port-arm.deb
+Size: 1648
+MD5Sum: 72cdca3c827b843018bb43e98a1ea667
+SHA1: 2bd39dc1f07ae7286832059bd20c1e3e795ffc30
+SHA256: d148e8018a9357b9a20b403e39d57c3079dc53bd424f490a77b52db880d19dec
+SHA512: 956726936e441c159baa942dfc7e5a26220774c875949bf0db077a8012d8edc3b70e6a0b8df377bab317a26be05f08dc613e5545dd35bc9e614a7a19311c643c
