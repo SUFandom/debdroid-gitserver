@@ -7,6 +7,7 @@ Maintainer: SUFandom
 Homepage: https://github.com/SUFandom
 Description:VS Code Installer
  Use this script when on shared dir link with Proot 
+ .
 
 Filename: dists/contrib/binary-arm/idesetup_0.1-port-arm.deb
 Size: 1648
